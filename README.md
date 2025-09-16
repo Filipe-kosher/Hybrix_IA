@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20Mac-informational)
-![License](https://img.shields.io/github/license/Filipe-kosher/Hybrix_IA)
 ![Issues](https://img.shields.io/github/issues/Filipe-kosher/Hybrix_IA)
 ![Stars](https://img.shields.io/github/stars/Filipe-kosher/Hybrix_IA?style=social)
 ![Last Commit](https://img.shields.io/github/last-commit/Filipe-kosher/Hybrix_IA)
