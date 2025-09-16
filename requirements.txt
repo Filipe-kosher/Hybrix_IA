@@ -1,0 +1,11 @@
+PyQt6==6.6.1
+matplotlib==3.8.2
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+requests==2.31.0
+numpy==1.24.4
+pyttsx3==2.90
+opencv-python==4.9.0.80
+pytesseract==0.3.10
+PyMuPDF==1.23.8
+pdf2image==1.16.3
