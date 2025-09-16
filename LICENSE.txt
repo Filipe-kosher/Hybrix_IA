@@ -1,0 +1,6 @@
+Licença Proprietária - Todos os Direitos Reservados
+
+Este software e todo o seu conteúdo são de propriedade exclusiva de Filipe-kosher.  
+É proibida qualquer reprodução, distribuição, modificação, uso ou comercialização, total ou parcial, deste código-fonte sem autorização expressa e por escrito do titular dos direitos autorais.
+
+Qualquer uso não autorizado será considerado violação da legislação aplicável sobre direitos autorais, sujeitando o infrator às sanções civis e criminais previstas em lei.
